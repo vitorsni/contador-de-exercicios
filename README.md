@@ -34,7 +34,7 @@ pip install opencv-python
 
 Mediapipe
 ```bash
-pipinstall mediapipe
+pip install mediapipe
 ```
 
 PySimpleGUI
